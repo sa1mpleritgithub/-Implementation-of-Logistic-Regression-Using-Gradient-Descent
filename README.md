@@ -81,7 +81,8 @@ plt.show()
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![logistic regression using gradient descent](01.png)
+![logistic regression using gradient descent](011.png)
 
 
 ## Result:
